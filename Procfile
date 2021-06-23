@@ -1,0 +1,1 @@
+web: gunicorn Email_Fraud_Website.wsgi --log-file -
